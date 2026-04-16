@@ -1,4 +1,4 @@
-# SE 420 — To-Do List Project
+# SE 420 — To-Do Project
 
 A two-version CLI to-do list application built for SE 420 Software Maintenance
 & Evolution. The project demonstrates software re-engineering by contrasting a
